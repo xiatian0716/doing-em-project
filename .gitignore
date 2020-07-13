@@ -13,3 +13,34 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+go-crawler-test/.idea
+
+
+####################################################
+####################################################
+
+
+vue-manage-system/.DS_Store
+vue-manage-system/node_modules
+vue-manage-system/dist
+
+# local env files
+vue-manage-system/.env.local
+vue-manage-system/.env.*.local
+
+# Log files
+vue-manage-system/npm-debug.log*
+vue-manage-system/yarn-debug.log*
+vue-manage-system/yarn-error.log*
+vue-manage-system/pnpm-debug.log*
+
+# Editor directories and files
+vue-manage-system/.idea
+vue-manage-system/.vscode
+vue-manage-system/*.suo
+vue-manage-system/*.ntvs*
+vue-manage-system/*.njsproj
+vue-manage-system/*.sln
+vue-manage-system/*.sw?
+go-crawler-test/design/~$软件架构.pptx

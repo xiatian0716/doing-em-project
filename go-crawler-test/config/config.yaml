@@ -1,0 +1,11 @@
+Version: "v0.0.1"
+StartUrl: "https://guba.eastmoney.com/remenba.aspx?type=1"
+ConcurrentEngine:
+  WorkerCount: 2
+  ESSave: false
+Staticsearch:
+  ESConnection: "http://192.168.127.200:9200"
+  Database: "database_test"
+  Table: "table_test"
+  SetSniff: false
+Fetcher:
